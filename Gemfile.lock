@@ -16,6 +16,8 @@ GEM
     net-http-persistent (2.6)
     nokogiri (1.5.2)
     ntlm-http (0.1.1)
+    tor-privoxy (0.1.1)
+      mechanize
     unf (0.0.5)
       unf_ext
     unf_ext (0.0.4)
@@ -26,3 +28,4 @@ PLATFORMS
 
 DEPENDENCIES
   mechanize
+  tor-privoxy
